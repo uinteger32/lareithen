@@ -7,6 +7,6 @@
 <br>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lareithen&theme=monokai&hide_border=true&include_all_commits=true&count_private=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lareithen&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="488">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=lareithen&theme=monokai&hide_border=true&include_all_commits=true&count_private=false">
+    <img width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lareithen&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 </div>
